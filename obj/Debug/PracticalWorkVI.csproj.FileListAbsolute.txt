@@ -1,0 +1,11 @@
+C:\Users\Даниил Селезнев\source\repos\PracticalWorkVI\bin\Debug\PracticalWorkVI.exe.config
+C:\Users\Даниил Селезнев\source\repos\PracticalWorkVI\bin\Debug\PracticalWorkVI.exe
+C:\Users\Даниил Селезнев\source\repos\PracticalWorkVI\bin\Debug\PracticalWorkVI.pdb
+C:\Users\Даниил Селезнев\source\repos\PracticalWorkVI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Даниил Селезнев\source\repos\PracticalWorkVI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Даниил Селезнев\source\repos\PracticalWorkVI\obj\Debug\PracticalWorkVI.csproj.AssemblyReference.cache
+C:\Users\Даниил Селезнев\source\repos\PracticalWorkVI\obj\Debug\PracticalWorkVI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Даниил Селезнев\source\repos\PracticalWorkVI\obj\Debug\PracticalWorkVI.csproj.CoreCompileInputs.cache
+C:\Users\Даниил Селезнев\source\repos\PracticalWorkVI\obj\Debug\PracticalWorkVI.csproj.CopyComplete
+C:\Users\Даниил Селезнев\source\repos\PracticalWorkVI\obj\Debug\PracticalWorkVI.exe
+C:\Users\Даниил Селезнев\source\repos\PracticalWorkVI\obj\Debug\PracticalWorkVI.pdb
