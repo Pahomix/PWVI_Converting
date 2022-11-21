@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PracticalWorkVI
 {
-    internal class Model
+    public class Model
     {
         public Model()
         {
